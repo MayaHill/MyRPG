@@ -5,9 +5,13 @@
 <img src="https://i.postimg.cc/8CBvtVrY/combat-example.png" alt="alt text">
 
 The goal of this project was to create an RPG which would incorporate the following points:
+
 • Having a pleasant user interface.
-• Create a coherent universe (visual assets, audio assets, scenario, ...)
+
+• Create a coherent universe (visual assets, audio assets, scenario, ...).
+
 • Create a funny game where the player has at least one goal (quest system).
+
 • Create a game with a beginning and an end.
 
 ### Linux Installer
