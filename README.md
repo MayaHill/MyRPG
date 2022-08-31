@@ -1,4 +1,4 @@
-# MyRPG-4-April-9-May
+# MyRPG
 
 <img src="https://i.postimg.cc/LsdkxTQJ/start-village.png" alt="alt text">
 
