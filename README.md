@@ -18,7 +18,7 @@ The goal of this project was to create an RPG which would incorporate the follow
 
 Clone the repository:
 
-    git clone https://github.com/MayaHill/MyRPG-4-April-9-May.git
+    git clone https://github.com/MayaHill/MyRPG.git
 
 Install CSFML
 
